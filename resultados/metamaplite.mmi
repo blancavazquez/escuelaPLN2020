@@ -1,0 +1,7 @@
+pat_100.txt|MMI|11.11|clopidogrel|C0070166|[orch, phsu]|"clopidogrel"-text-0-"clopidogrel"-NN-0|text|957/11|D02.886.778.823.500.500;D03.633.100.928.500.500;D03.383.725.849.500.500;D03.383.903.830.500.500|
+pat_100.txt|MMI|8.35|metoprolol|C0025859|[orch, phsu]|"metoprolol"-text-6-"metoprolol"-NN-0|text|766/10|D02.033.100.624.698.573;D02.033.755.624.698.573;D02.092.063.624.698.573|
+pat_100.txt|MMI|4.21|aspirin|C0004057|[orch, phsu]|"aspirin"-text-7-"aspirin"-NN-0|text|992/7|D02.455.426.559.389.657.410.595.176|
+pat_100.txt|MMI|1.90|Coreg|C0719509|[orch, phsu]|"Coreg"-text-19-"Coreg"-NNP-0|text|801/5|x.x.x.x|
+pat_100.txt|MMI|1.90|Lasix|C0699992|[orch, phsu]|"Lasix"-text-3-"Lasix"-NNP-0|text|982/5|x.x.x.x|
+pat_100.txt|MMI|1.90|Plavix|C0633084|[orch, phsu]|"Plavix"-text-0-"Plavix"-NNP-0|text|949/6|x.x.x.x|
+pat_100.txt|MMI|1.44|nitroglycerin|C0017887|[orch, phsu]|"nitroglycerin"-text-12-"nitroglycerin"-NN-0|text|667/13|D02.640.636|
