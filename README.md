@@ -1,2 +1,2 @@
-# Taller "Hacia la simulación de la evolución clínica del paciente"
-En este repositorio se encuentra los datos, presentación, libreta de trabajo y resultados del taller "Hacia la simulación de la evolución clínica del paciente" como parte de la iniciativa de NLPWebinarsMx
+# Escuela de Verano PLN 2020
+En este repositorio se encuentra los datos, presentación, libreta de trabajo y resultados de la ponencia "Extracción de medicamentos a partir de notas clínicas"
